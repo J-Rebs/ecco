@@ -13,7 +13,7 @@ This repo is meant to serve as a learning environment for building an open sourc
 1. Learning and development are iterative. Relatedly, good things develop slowly then suddenly. 
 2. AI should aid development but not supplant learning. For example, using AI to scaffold a repo or do something you understand already is fine. Asking AI to replace the full coding process or write more code than you can comprehend is not.
 3. Rabbit holes are part of the proccess. 
-4. There is still an obverall objective - build an efficient chatbot that aids but doesn't replace independent thinking and avoids delusional statements.
+4. There is still an overall objective - build an efficient chatbot that aids but doesn't replace independent thinking and avoids delusional statements.
 
 
 # A general roadmap
